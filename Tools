@@ -1,0 +1,11 @@
+#tools
+External Reconnaissance: Masscan and ReconFTW
+Internal Enumeration: PCHunter64, Advanced IP Scanner, LANsweeper, SharpHound, AdFind, SoftPerfect NetScan, and Windows Nltest
+Credential Theft: Minidump, Mimikatz, LaZagne, and DonPAPI
+Persistence: RMM tools, such as AnyDesk, RustDesk, Radmin, and ScreenConnect, as well as disabling firewalls followed by enabling RDP, and PuTTy. The SystemBC crimeware RAT has also been used Akira.
+Defense Evasion: Disable EDR tools with Terminator.exe and ToolPow, as well as batch scripts for disabling LSA Protection and Windows Defender
+Lateral Movement: Impacket (wmiexec.py and atexec.py), RDP, and SSH
+Collection: Searching and downloading files from Microsoft SharePoint
+Exfiltration: Compression tools (7zip, WinRAR, etc) as well as Rclone, FileZilla, and WinSCP
+Command-and-control: Cloudflare Tunnel (Cloudflared), MobaXterm, and Ngrok
+Impact: Akira ransomware, usually launched via PsExec 
